@@ -17,7 +17,7 @@ Step 3: Launch MSNet.m for a simple example.
 **************************************************************
 Note:
 
-The result of each epoch is saved in './data/model'
+The result of each epoch is saved in './data/model'.
 The supplement is also inlcuded in the above link.
 
 
