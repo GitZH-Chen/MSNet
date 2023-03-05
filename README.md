@@ -1,6 +1,6 @@
 # MSNet-master
 
-Version 1.0,  Copyright(c) April, 2022. 
+Version 1.0,  Copyright(c) March, 2023. 
 
 This is the source code of our AAAI paper, "Riemannian Local Mechanism for SPD Neural Networks". 
 The code is based on the brilliant matlab framework of the SPDNet. 
