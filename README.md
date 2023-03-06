@@ -5,6 +5,7 @@ Version 1.0,  Copyright(c) March, 2023.
 This is the source code of our AAAI paper, "Riemannian Local Mechanism for SPD Neural Networks". 
 The code is based on the brilliant matlab framework of the SPDNet. 
 All the settings are consistent with the description in the main paper.
+If you have any queries, please do not hesitate to contact me ziheng_ch@163.com.
 
 Usage:
 
