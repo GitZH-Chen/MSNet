@@ -22,7 +22,7 @@ Note:
 
 The result of each epoch is saved in './data/model'.
 
-The arxiv paper (including supplement) will be updated in https://arxiv.org/abs/2201.10145
+The arxiv paper (including supplement) is https://arxiv.org/abs/2201.10145
 
 
 
